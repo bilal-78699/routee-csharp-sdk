@@ -1,0 +1,26 @@
+﻿{
+   "total":100,
+   "totals":{
+      "Pending":15,
+      "Verified":20,
+      "Cancelled":30,
+      "Expired":15,
+      "Failed":20
+   },
+   "perCountry":{
+      "GR":{
+         "Pending":5,
+         "Verified":10,
+         "Cancelled":0,
+         "Expired":15,
+         "Failed":20
+      },
+      "US":{
+         "Pending":10,
+         "Verified":10,
+         "Cancelled":30,
+         "Expired":0,
+         "Failed":0
+      }
+   }
+}
